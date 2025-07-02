@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["library_delete","library_get_all","library_get_media","library_get_one","library_get_unmatched","library_post"],"struct":["UnmatchedArgs"]};
+window.SIDEBAR_ITEMS = {"fn":["library_delete","library_get_all","library_get_media","library_get_one","library_get_unmatched","library_post","library_scan"],"struct":["UnmatchedArgs"]};
