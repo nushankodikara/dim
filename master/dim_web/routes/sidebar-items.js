@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["auth","dashboard","filebrowser","library","media","mediafile","search","settings","statik","stream","tv","user","websocket"]};

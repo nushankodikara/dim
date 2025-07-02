@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":[["ffpath",""]]};
+window.SIDEBAR_ITEMS = {"fn":["ffpath"]};

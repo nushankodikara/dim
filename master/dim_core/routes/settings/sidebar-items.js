@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_global_settings","init_global_settings","set_global_settings"],"struct":["GlobalSettings"]};

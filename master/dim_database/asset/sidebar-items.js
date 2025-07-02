@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":[["Asset",""],["InsertableAsset",""]]};
+window.SIDEBAR_ITEMS = {"struct":["Asset","InsertableAsset"]};

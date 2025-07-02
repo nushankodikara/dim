@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["get_global_settings",""],["get_user_settings",""],["post_user_settings",""],["set_global_settings",""]]};

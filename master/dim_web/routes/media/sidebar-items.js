@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["API_KEY","MOVIES_PROVIDER","TV_PROVIDER"],"enum":["Error"],"fn":["delete_media_by_id","get_media_by_id","get_media_files","get_mediafile_tree","map_progress","rematch_media_by_id","tmdb_search","update_media_by_id"],"struct":["ProgressParams","RematchMediaParams","TmdbSearchParams"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AuthError","LoginError","RegisterError"],"fn":["admin_exists","delete_token","generate_invite","get_all_invites","login","register","whoami"]};

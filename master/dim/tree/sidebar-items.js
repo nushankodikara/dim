@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Entry","Represents a entry which can either be a directory with more entries, or a singular file."]]};

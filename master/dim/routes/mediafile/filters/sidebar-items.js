@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["get_mediafile_info",""],["rematch_mediafile",""]]};

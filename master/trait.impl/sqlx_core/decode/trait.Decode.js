@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["dim_database",[["impl&lt;'r&gt; Decode&lt;'r, Sqlite&gt; for <a class=\"enum\" href=\"dim_database/library/enum.MediaType.html\" title=\"enum dim_database::library::MediaType\">MediaType</a>"],["impl&lt;'r&gt; Decode&lt;'r, Sqlite&gt; for <a class=\"enum\" href=\"dim_database/user/enum.Theme.html\" title=\"enum dim_database::user::Theme\">Theme</a>"],["impl&lt;'r, DB: Database&gt; Decode&lt;'r, DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.Roles.html\" title=\"struct dim_database::user::Roles\">Roles</a><div class=\"where\">where\n    &amp;'r <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.88.0/std/primitive.str.html\">str</a>: Decode&lt;'r, DB&gt;,</div>"],["impl&lt;'r, DB: Database&gt; Decode&lt;'r, DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.UserID.html\" title=\"struct dim_database::user::UserID\">UserID</a><div class=\"where\">where\n    <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.88.0/std/primitive.i64.html\">i64</a>: Decode&lt;'r, DB&gt;,</div>"],["impl&lt;'r, DB: Database&gt; Decode&lt;'r, DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.UserSettings.html\" title=\"struct dim_database::user::UserSettings\">UserSettings</a><div class=\"where\">where\n    &amp;'r [<a class=\"primitive\" href=\"https://doc.rust-lang.org/1.88.0/std/primitive.u8.html\">u8</a>]: Decode&lt;'r, DB&gt;,</div>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1392]}

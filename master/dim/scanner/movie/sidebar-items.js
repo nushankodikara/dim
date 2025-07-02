@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Error",""]],"fn":[["asset_from_url",""]],"struct":[["MovieMatcher",""]]};

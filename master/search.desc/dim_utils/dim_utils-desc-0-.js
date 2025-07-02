@@ -1,0 +1,1 @@
+searchState.loadedDescShard("dim_utils", 0, "Construct a <code>serde_json::Value</code> from a JSON literal.")

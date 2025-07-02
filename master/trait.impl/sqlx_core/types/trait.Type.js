@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["dim_database",[["impl Type&lt;Sqlite&gt; for <a class=\"enum\" href=\"dim_database/library/enum.MediaType.html\" title=\"enum dim_database::library::MediaType\">MediaType</a>"],["impl Type&lt;Sqlite&gt; for <a class=\"enum\" href=\"dim_database/user/enum.Theme.html\" title=\"enum dim_database::user::Theme\">Theme</a>"],["impl&lt;DB: Database&gt; Type&lt;DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.Roles.html\" title=\"struct dim_database::user::Roles\">Roles</a><div class=\"where\">where\n    <a class=\"struct\" href=\"https://doc.rust-lang.org/1.88.0/alloc/string/struct.String.html\" title=\"struct alloc::string::String\">String</a>: Type&lt;DB&gt;,</div>"],["impl&lt;DB: Database&gt; Type&lt;DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.UserID.html\" title=\"struct dim_database::user::UserID\">UserID</a><div class=\"where\">where\n    <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.88.0/std/primitive.i64.html\">i64</a>: Type&lt;DB&gt;,</div>"],["impl&lt;DB: Database&gt; Type&lt;DB&gt; for <a class=\"struct\" href=\"dim_database/user/struct.UserSettings.html\" title=\"struct dim_database::user::UserSettings\">UserSettings</a><div class=\"where\">where\n    <a class=\"struct\" href=\"https://doc.rust-lang.org/1.88.0/alloc/vec/struct.Vec.html\" title=\"struct alloc::vec::Vec\">Vec</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/1.88.0/std/primitive.u8.html\">u8</a>&gt;: Type&lt;DB&gt;,</div>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1478]}

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":[["MockProvider",""]]};
+window.SIDEBAR_ITEMS = {"struct":["MockProvider"]};

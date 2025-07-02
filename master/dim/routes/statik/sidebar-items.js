@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["get_image",""],["react_routes",""]],"mod":[["filters",""]]};

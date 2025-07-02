@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["handler",""]],"struct":[["ReactorCore",""]],"trait":[["Reactor",""]]};

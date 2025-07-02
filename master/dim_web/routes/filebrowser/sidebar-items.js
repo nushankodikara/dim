@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AuthError"],"fn":["enumerate_directory","get_directory_structure"]};

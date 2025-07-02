@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":[["write_tx",""]],"struct":[["SqlitePool",""]]};
+window.SIDEBAR_ITEMS = {"fn":["write_tx"],"struct":["SqlitePool"]};

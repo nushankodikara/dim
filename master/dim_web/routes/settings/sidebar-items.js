@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_user_settings","http_get_global_settings","http_set_global_settings","post_user_settings"]};

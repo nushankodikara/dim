@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ClientActions","CtrlEvent"],"fn":["event_repeater","handle_websocket_session"],"struct":["EventRepeater","WsMessageError"],"trait":["IntoCtrlEvent"],"type":["EventSocketTx","WsMessage"]};

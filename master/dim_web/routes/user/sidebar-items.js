@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AuthError"],"fn":["change_password","change_username","delete","upload_avatar"],"struct":["ChangePasswordParams","ChangeUsernameParams","DeleteParams"]};
